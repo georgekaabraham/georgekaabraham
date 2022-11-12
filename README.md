@@ -8,4 +8,4 @@
 - 😄 Pronouns: something
 - ⚡ Fun fact: something
 
-![snake gif](https://github.com/georgekaabraham/georgekaabraham/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ashishshaiju/ashishshaiju/blob/output/github-contribution-grid-snake.svg)
